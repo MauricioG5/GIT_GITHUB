@@ -1,1 +1,3 @@
-Hola, estoy escribiendo un mensaje para las futuras generaciones
+Hola, estoy escribiendo un mensaje para las futuras generaciones.
+
+Este es el segundo renglón, añadido para hacer Commit.
