@@ -1,0 +1,1 @@
+Mi llave publica es la que comparto para que me envíen informacion encriptada. Mi llave privada jamás deberá ser compartida
