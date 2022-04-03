@@ -2,3 +2,4 @@ Hola, estoy escribiendo un mensaje para las futuras generaciones.
 
 Este es el segundo renglón, añadido para hacer Commit.
 Agrego un tercer renglon desde Github para verificar el email de usuario
+Agrego un cuarto renglon para confirmar que ahora aparece el mismo correo que en GIT
